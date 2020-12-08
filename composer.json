@@ -1,0 +1,14 @@
+{
+    "name": "acer/magangrd",
+    "description": "Laporan KP Afridayani",
+    "type": "project",
+    "require": {
+        "php": "^7.4"
+    },
+    "authors": [
+        {
+            "name": "rida-uinsu",
+            "email": "afridayani55@gmail.com"
+        }
+    ]
+}
